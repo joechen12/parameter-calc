@@ -1,2 +1,2 @@
 # parameter-calc
-a calculator that calculates the number of parameters in a neural network 
+a calculator that calculates how many parameters are in a neural network
